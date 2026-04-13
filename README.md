@@ -1,13 +1,9 @@
-
 class Node():                                       
-
-   def__init__(self,content):
-      
+   def __init__(self,content):
        self.content=content
        self.next=None
 
 class linked_list:
- 
     def __init__(self):
         self.front=None
         self.rear=None
