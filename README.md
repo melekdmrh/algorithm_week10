@@ -27,7 +27,7 @@ class linked_list:
             print(tmp.content)
             tmp = tmp.next
 
-my_str="No description,website,or,topics provided."
+my_str="No descriptionwe bsite or topics provided."
 words=my_str.split(' ')
 ll=linked_list()
 
